@@ -14,13 +14,8 @@ header:
 ---
 
 {{% toc %}}
+
 # deeplearning.ai
 
-Something about it
+{{% content "resources/ml.md" %}}
 
-## Something else about it
-
-
-# Something new
-
-## Something else
