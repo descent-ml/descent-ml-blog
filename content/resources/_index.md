@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Resources 
 
 # View.
 #   1 = List
@@ -12,3 +12,15 @@ header:
   caption: ""
   image: ""
 ---
+
+{{% toc %}}
+# deeplearning.ai
+
+Something about it
+
+## Something else about it
+
+
+# Something new
+
+## Something else

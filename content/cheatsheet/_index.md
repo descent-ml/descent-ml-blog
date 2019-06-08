@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Cheatsheet 
 
 # View.
 #   1 = List
@@ -12,3 +12,5 @@ header:
   caption: ""
   image: ""
 ---
+
+{{% toc %}}
