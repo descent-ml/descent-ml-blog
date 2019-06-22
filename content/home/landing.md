@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "descent.ml"
-subtitle = "something smart"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -44,4 +44,4 @@ subtitle = "something smart"
  css_class = ""
 +++
 
-ML stuff
+Just another blog about machine learning
