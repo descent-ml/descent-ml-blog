@@ -18,7 +18,7 @@ header:
 # Deep Learning
 
 <details>
-<summary>:video_camera: deeplearning.ai</summary>
+<summary>:movie_camera: deeplearning.ai</summary>
 
 * Description - Deep Learning specialization on Coursera by Andrew Ng.
 
